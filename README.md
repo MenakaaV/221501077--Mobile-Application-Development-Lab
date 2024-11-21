@@ -1,6 +1,4 @@
  221501077--Mobile-Application-Development-Lab
-Welcome to the Mobile Application Development Innovations Lab!
-This repository showcases diverse experiments aimed at refining mobile app functionality, improving security, and elevating user engagement.
 
 Table of Contents
 Overview
